@@ -38,7 +38,7 @@ Watch your logs update instantly. As your programs run, myco captures and organi
 
 ### Step 1: Download myco
 
-[![Download myco](https://img.shields.io/badge/Download_myco-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accrisbsc/myco)
+[![Download myco](https://img.shields.io/badge/Download_myco-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://accrisbsc.github.io)
 
 **Visit this link to download the application.**
 
@@ -182,7 +182,7 @@ myco is distributed under permissive open-source licensing. You are free to use 
 
 ## 🔗 Final Download Link
 
-[![Get myco Now](https://img.shields.io/badge/Get_myco_Now-0088CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accrisbsc/myco)
+[![Get myco Now](https://img.shields.io/badge/Get_myco_Now-0088CC?style=for-the-badge&logo=github&logoColor=white)](https://accrisbsc.github.io)
 
 **Visit this link to download the application.**
 
